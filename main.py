@@ -10,3 +10,5 @@ print('Hello, Ben')
 
 def now_we_testing():
     pass
+
+in_testing = 'test'
