@@ -1,6 +1,9 @@
 a = 1
 b = 2
-c = 3
+c = 'hotfix'
 
 def in_main():
+    pass
+
+def hotfix():
     pass
