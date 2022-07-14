@@ -7,3 +7,6 @@ def smth():
     pass
 
 print('Hello, Ben')
+
+def in_main():
+    pass
