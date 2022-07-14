@@ -7,3 +7,6 @@ def smth():
     pass
 
 print('Hello, Ben')
+
+def now_we_testing():
+    pass
