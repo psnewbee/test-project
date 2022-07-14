@@ -3,7 +3,11 @@ b = 15
 d = 33
 c = 'place'
 
-def modified_main():
+def modified_main_for developer():
     hah = 32
     pass
-print('Hi')
+
+print('Hi, developer')
+
+def developer()
+pass
