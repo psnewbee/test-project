@@ -1,6 +1,9 @@
 a = 1
-b = 2
-c = 3
+b = 15
+d = 33
+c = 'place'
 
-def in_main():
+def modified_main():
+    hah = 32
     pass
+print('Hi')
